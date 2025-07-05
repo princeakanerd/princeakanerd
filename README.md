@@ -1,3 +1,9 @@
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Prince Gajnani </h1>
+
+<p align="center" width="150px"> I am a pre-final year student at IIIT Gwalior, pursuing an integrated degree in Information Technology. I'm a passionate and consistent competitive programmer with a strong foundation in data structures and algorithms. As an avid learner, I actively explore new technologies and enjoy building efficient, scalable solutions to real-world problems.</p>
 
 # 👋 About Me
 
